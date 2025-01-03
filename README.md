@@ -13,7 +13,7 @@ this is the navabar for the x-clone app
 full responisive site and the full home page
 ```
 ![Screenshot 2025-01-03 143616](https://github.com/user-attachments/assets/2db0d386-d5ec-48f9-af95-5cb5ce40b942)
-```
-responsice site for the i-phine and andorid
-```
-![Screenshot 2025-01-03 143943](https://github.com/user-attachments/assets/f12091ec-1e29-4c80-9d91-874cb09f2fa0)
+<br>
+![Screenshot 2025-01-03 144606](https://github.com/user-attachments/assets/9e5019ad-74e6-4c2d-b866-76af32afd4b7)
+<br>
+![Screenshot 2025-01-03 144627](https://github.com/user-attachments/assets/7905ddd8-09a1-421c-82f7-4070e306c3c1)
